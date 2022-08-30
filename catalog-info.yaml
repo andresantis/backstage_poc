@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage_poc
+  annotations:
+    github.com/project-slug: andresantis/backstage_poc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
